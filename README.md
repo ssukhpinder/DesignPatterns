@@ -16,3 +16,12 @@
 | 9 | Observer    | [Link](https://medium.com/c-sharp-progarmming/observer-design-pattern-with-example-a8a0d523f63c?sk=558e70e3514d1578a39714542879da36)    |
 | 10 | Property    | [Link](https://medium.com/swlh/property-pattern-c-8-0-40925ae07b2c?sk=e7d44ede271a2c7f39b324f1fa48302d)    |
 | 11 | Singleton    | [Link](https://medium.com/c-sharp-progarmming/singleton-design-pattern-76a1e53f5ed2?sk=f87f3cc92586cda1121db37c49772ebd)    |
+
+
+# Where to find me
+
+<p><a href="https://github.com/ssukhpinder" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/sukhsukhpinder" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sukhpinder-singh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@singhsukhpinder" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
+
+<a href="https://www.buymeacoffee.com/sukhpindersingh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
